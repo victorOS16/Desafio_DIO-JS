@@ -1,2 +1,3 @@
 # Desafio_DIO-JS
-Desafio de JavaScript da DIO
+### Esse é o repositório do desafio de JavaScript da DIO.<br>
+### É um jogo da memória.
